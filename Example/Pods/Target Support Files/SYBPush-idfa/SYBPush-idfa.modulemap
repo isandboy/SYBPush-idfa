@@ -1,0 +1,6 @@
+framework module SYBPush_idfa {
+  umbrella header "SYBPush-idfa-umbrella.h"
+
+  export *
+  module * { export * }
+}

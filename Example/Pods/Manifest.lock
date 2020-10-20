@@ -1,0 +1,16 @@
+PODS:
+  - SYBPush-idfa (1.6.2)
+
+DEPENDENCIES:
+  - SYBPush-idfa (from `../`)
+
+EXTERNAL SOURCES:
+  SYBPush-idfa:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SYBPush-idfa: 44fa913e099b6c823de569520f9ab252a288cf58
+
+PODFILE CHECKSUM: 57587417136ce3485172021d75890938ea4a4969
+
+COCOAPODS: 1.9.3
