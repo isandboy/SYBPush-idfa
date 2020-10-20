@@ -29,7 +29,7 @@ http://push.baidu.com/doc/ios/api
 
 ## Author
 
-isandboy, luyiyang@jiangroom.com
+isandboy, sandboylu@gmail.com
 
 ## License
 
